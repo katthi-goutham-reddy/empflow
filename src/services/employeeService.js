@@ -2,7 +2,7 @@ import axios from 'axios'
 
 // Note: You need to create your own MockAPI resource at mockapi.io
 // Create a resource called "employees" with fields: id, name, designation, department, salary
-const API_URL = 'https://67d0cdc9cf994d8f2e0b9ee3.mockapi.io/api/employees'
+const API_URL = 'https://69f8c3adf7044aa0103e738e.mockapi.io/api/employees'
 
 export const getEmployees = async () => {
   try {
