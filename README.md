@@ -2,6 +2,12 @@
 
 A simple Employee Management Web Application built with Vue.js, Axios, and Bootstrap that performs CRUD operations using MockAPI.
 
+## Screenshots
+
+![Employee List](screenshots/screenshot-1.png)
+![Add Employee](screenshots/screenshot-2.png)
+![Edit Employee](screenshots/screenshot-3.png)
+
 ## Features
 
 - ✅ Add new employees
